@@ -1,5 +1,10 @@
 public class SwitchStatement {
     public static void main(String[] args) {
+        // valid Switch Value Types
+        /* byte, short , int , char
+        String , enum
+        long , float , double , boolean cant be used with Switch
+         */
         int value = 1;
         switch (value)
         {
