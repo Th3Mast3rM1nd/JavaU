@@ -1,1 +1,1 @@
-This reop for small Java Challnges i have done. 
+Java Challnges i have done. 
